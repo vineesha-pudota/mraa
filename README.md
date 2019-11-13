@@ -41,6 +41,7 @@ ARM
 * [Beaglebone Black](../master/docs/beaglebone.md)
 * [phyBOARD-Wega](../master/docs/phyboard-wega.md)
 * [96Boards](../master/docs/96boards.md)
+* [rugged board] ()
 
 MIPS
 ---
